@@ -1,7 +1,7 @@
 ## Portfolio Tracker using React
 (This project is not complete yet)
 
-This is an project assignment given during Full stack web development course.And i have attempted to do it as of can i do i will complete it as soon as possible.it is divided into two components as follows.
+This is an project assignment given during Full stack web development course.And i have attempted to do it as of can i do i will complete it as soon as possible.
 
 
 
