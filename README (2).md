@@ -1,6 +1,8 @@
-## Portfolio Tracker
+## Portfolio Tracker using React
+(This project is not complete yet)
 
-This project briefly explains about Resort and what rooms they have,Inquiry details.
+This is an project assignment given during Full stack web development course.And i have attempted to do it as of can i do i will complete it as soon as possible.it is divided into two components as follows.
+
 
 
 ## Languages used
@@ -16,7 +18,8 @@ This project briefly explains about Resort and what rooms they have,Inquiry deta
 - Render on single page while clicking on nav bar buttons.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/53010261/193411563-4b3cb579-85b0-43c4-a645-f06993ab41f6.png)
+
 
 ## Demo
 
