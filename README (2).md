@@ -23,7 +23,7 @@ This is an project assignment given during Full stack web development course.And
 
 ## Demo
 
-https://www.loom.com/share/ac820324e04d49bdb4f0d2cc9cee5caa
+https://www.loom.com/share/8efc0a9c475d4ae498be3a93484bf318
 
 
 ## 🔗 Links
